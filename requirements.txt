@@ -1,0 +1,9 @@
+# COSC 3337 Term Project - core dependencies
+# Versions pinned so results are reproducible (see Reproducibility Standard in
+# the term project instructions). Install: pip install -r requirements.txt
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+jupyter==1.1.1
